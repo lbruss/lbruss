@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo ao meu perfil!
 
-<!--
-**lbruss/lbruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bruss, sou aluno do **Curso Técnico em Informática – SENAC Tatuapé**.  
+Este repositório tem como objetivo documentar meu processo de aprendizagem durante as **Unidades Curriculares (UCs)** do curso.  
+Aqui você encontrará anotações, exercícios, códigos e projetos desenvolvidos em sala de aula e no meu estudo individual.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Conteúdos Estudados
+
+### 🔹 UC-1 – Fundamentos de Informática e Hardware
+- Teoria de Hardware  
+- Elétrica básica  
+- Eletrônica básica com Arduino  
+- Git e GitHub básico  
+- Inteligência Artificial (IA)  
+
+📌 Esta é a UC que estou estudando no momento. Conforme eu avançar no curso, este arquivo será **atualizado com as próximas UCs**.
+
+---
+
+## 🎯 Objetivo
+Meu objetivo é **me aprofundar na área de TI** e compartilhar aqui meu processo de aprendizagem até me tornar **Técnico em Informática**.  
+Além dos conteúdos do curso, também vou incluir projetos e práticas pessoais, especialmente sobre **hardware, software e inteligência artificial**.
+
+---
+
+## 🎮 Sobre mim
+- Apaixonado por **TI e tecnologia**  
+- Curto **montagem de computadores** e explorar novas ferramentas  
+- Fã de **jogos de luta** – principalmente *Tekken 8*  
+- Sempre em busca de aprender e evoluir 🚀  
+
+---
+✍️ *README em constante atualização conforme avanço nas próximas UCs.*
