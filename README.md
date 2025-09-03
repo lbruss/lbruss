@@ -1,35 +1,31 @@
-# 👋 Olá, seja bem-vindo ao meu perfil!
+# 👋 Olá, eu sou o Bruss!
 
-Meu nome é Bruss, sou aluno do **Curso Técnico em Informática – SENAC Tatuapé**.  
-Este repositório tem como objetivo documentar meu processo de aprendizagem durante as **Unidades Curriculares (UCs)** do curso.  
-Aqui você encontrará anotações, exercícios, códigos e projetos desenvolvidos em sala de aula e no meu estudo individual.  
+🎓 Aluno do **Curso Técnico em Informática – SENAC Tatuapé**  
+💻 Apaixonado por **TI, hardware, desenvolvimento de software e inteligência artificial**  
+🎮 Fã de **jogos de luta**, especialmente *Tekken 8*  
+🛠️ Curto **montagem de computadores** e explorar novas tecnologias  
+🚀 Objetivo: **me aprofundar cada vez mais em TI e compartilhar meu processo de aprendizagem até me tornar Técnico em Informática**
 
 ---
 
-## 📚 Conteúdos Estudados
+## 📚 Sobre este repositório
+Este é um **repositório pessoal** e registrar minha evolução nos estudos.  
+Aqui você encontrará minhas anotações, exercícios, projetos e todo o meu processo de aprendizagem durante o curso Técnico em Informática.  
+
+---
+
+## 📖 Conteúdos Estudados
 
 ### 🔹 UC-1 – Fundamentos de Informática e Hardware
-- Teoria de Hardware  
-- Elétrica básica  
-- Eletrônica básica com Arduino  
-- Git e GitHub básico  
-- Inteligência Artificial (IA)  
+- 💡 Teoria de Hardware  
+- ⚡ Elétrica básica  
+- 🔌 Eletrônica básica com Arduino  
+- 🌐 Git e GitHub básico  
+- 🤖 Inteligência Artificial (IA)  
 
-📌 Esta é a UC que estou estudando no momento. Conforme eu avançar no curso, este arquivo será **atualizado com as próximas UCs**.
-
----
-
-## 🎯 Objetivo
-Meu objetivo é **me aprofundar na área de TI** e compartilhar aqui meu processo de aprendizagem até me tornar **Técnico em Informática**.  
-Além dos conteúdos do curso, também vou incluir projetos e práticas pessoais, especialmente sobre **hardware, software e inteligência artificial**.
+📌 Esta é a UC que estou estudando no momento.  
+➡️ Conforme eu avançar no curso, este arquivo será **atualizado com as próximas UCs**.
 
 ---
 
-## 🎮 Sobre mim
-- Apaixonado por **TI e tecnologia**  
-- Curto **montagem de computadores** e explorar novas ferramentas  
-- Fã de **jogos de luta** – principalmente *Tekken 8*  
-- Sempre em busca de aprender e evoluir 🚀  
-
----
-✍️ *README em constante atualização conforme avanço nas próximas UCs.*
+✍️ *README em constante atualização, refletindo minha jornada até me tornar Técnico em Informática.*
