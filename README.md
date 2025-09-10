@@ -1,31 +1,27 @@
-# 👋 Olá, eu sou o Bruss!
+# 👋 Olá, eu sou o Bruss!  
 
-🎓 Aluno do **Curso Técnico em Informática – SENAC Tatuapé**  
-💻 Apaixonado por **TI, hardware, desenvolvimento de software e inteligência artificial**  
-🎮 Fã de **jogos de luta**, especialmente *Tekken 8*  
-🛠️ Curto **montagem de computadores** e explorar novas tecnologias  
-🚀 Objetivo: **me aprofundar cada vez mais em TI e compartilhar meu processo de aprendizagem até me tornar Técnico em Informática**
+Sou aluno do **SENAC Tatuapé**, atualmente cursando o **Técnico em Informática**.  
+Neste momento, estou estudando os conteúdos da **UC-1**, que incluem:  
 
----
+- Teoria de Hardware 🖥️  
+- Elétrica básica ⚡  
+- Eletrônica básica com Arduino 🤖  
+- Git e GitHub básico 🌐  
+- Inteligência Artificial (AI) 🧠  
 
-## 📚 Sobre este repositório
-Este é um **repositório pessoal** e registrar minha evolução nos estudos.  
-Aqui você encontrará minhas anotações, exercícios, projetos e todo o meu processo de aprendizagem durante o curso Técnico em Informática.  
+## 🎯 Sobre mim
+- 📚 Ainda não trabalho, mas estou em constante aprendizado.  
+- 💻 Tenho interesse em montagem de computadores, hardware, desenvolvimento de software e inteligência artificial.  
+- 🎮 Gosto de jogos de luta, especialmente *Tekken 8*.  
+- 🥋 Pratico **Taekwondo** , faixa vermleha.  
+- 🖱️ Apaixonado por TI, pretendo me aprofundar cada vez mais nessa área.  
+- 📈 Aqui no meu perfil você encontrará meu **processo de aprendizagem até me tornar Técnico em Informática**.  
 
----
+## 🚀 Objetivo
+Compartilhar minha evolução nos estudos, projetos e aprendizados ao longo da formação, construindo uma base sólida para seguir carreira em **Tecnologia da Informação**.  
 
-## 📖 Conteúdos Estudados
+## 🔄 Atualizações
+O arquivo **README.md** será atualizado gradativamente conforme eu avançar nas demais **Unidades Curriculares (UCs)** do curso.  
 
-### 🔹 UC-1 – Fundamentos de Informática e Hardware
-- 💡 Teoria de Hardware  
-- ⚡ Elétrica básica  
-- 🔌 Eletrônica básica com Arduino  
-- 🌐 Git e GitHub básico  
-- 🤖 Inteligência Artificial (IA)  
-
-📌 Esta é a UC que estou estudando no momento.  
-➡️ Conforme eu avançar no curso, este arquivo será **atualizado com as próximas UCs**.
-
----
-
-✍️ *README em constante atualização, refletindo minha jornada até me tornar Técnico em Informática.*
+## 📎 Contato
+- [LinkedIn](https://www.linkedin.com/in/bruss-loza-091053382/)  
