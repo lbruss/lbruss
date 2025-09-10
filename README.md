@@ -13,7 +13,7 @@ Neste momento, estou estudando os conteúdos da **UC-1**, que incluem:
 - 📚 Ainda não trabalho, mas estou em constante aprendizado.  
 - 💻 Tenho interesse em montagem de computadores, hardware, desenvolvimento de software e inteligência artificial.  
 - 🎮 Gosto de jogos de luta, especialmente *Tekken 8*.  
-- 🥋 Pratico **Taekwondo** , faixa vermleha.  
+- 🥋 Pratico **Taekwondo** , faixa vermelha.  
 - 🖱️ Apaixonado por TI, pretendo me aprofundar cada vez mais nessa área.  
 - 📈 Aqui no meu perfil você encontrará meu **processo de aprendizagem até me tornar Técnico em Informática**.  
 
