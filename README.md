@@ -1,4 +1,4 @@
-![](22 de set. de 2025, 16_11_12.png)
+![](banner.jpg)
 
 # 👋 Olá, eu sou o Bruss!  
 
