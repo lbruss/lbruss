@@ -1,3 +1,5 @@
+![](22 de set. de 2025, 16_11_12.png)
+
 # 👋 Olá, eu sou o Bruss!  
 
 Sou aluno do **SENAC Tatuapé**, atualmente cursando o **Técnico em Informática**.  
