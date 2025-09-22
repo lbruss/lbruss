@@ -1,8 +1,8 @@
 ![](banner.jpg)
-
-# 👋 Olá, eu sou o Bruss!  
-
-Sou aluno do **SENAC Tatuapé**, atualmente cursando o **Técnico em Informática**.  
+<h1 align="center">Olá, eu sou o Bruss!</h1>
+<h3 align="center">Sou aluno do SENAC Tatuapé, atualmente cursando o Técnico em Informática.</h3>
+<hr>
+  
 Neste momento, estou estudando os conteúdos da **UC-1**, que incluem:  
 
 - Teoria de Hardware 🖥️  
