@@ -1,4 +1,4 @@
-![](Banner.png)
+![](file_00000000a484622f9849b96a652f50ec.png)
 <h1 align="center">Olá, eu sou o Bruss!</h1>
 <h3 align="center">Sou aluno do SENAC Tatuapé, atualmente cursando o Técnico em Informática.</h3>
 <hr>
