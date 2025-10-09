@@ -1,4 +1,4 @@
-![](IMG_20250923_225227_699.jpg)
+![](banner2.jpg)
 <h1 align="center">Olá, eu sou o Bruss!</h1>
 <h3 align="center">Sou aluno do SENAC Tatuapé, atualmente cursando o Técnico em Informática.</h3>
 <hr>
