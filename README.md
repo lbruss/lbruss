@@ -3,7 +3,7 @@
 <h3 align="center">Sou aluno do SENAC Tatuapé, atualmente cursando o Técnico em Informática.</h3>
 <hr>
   
-Neste momento, estou estudando os conteúdos da **UC-1**, que incluem:  
+Estoi estudando por enquanto os seguintes conteúdos:  
 
 - Teoria de Hardware 🖥️  
 - Elétrica básica ⚡  
