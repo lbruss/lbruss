@@ -31,6 +31,7 @@ Estou estudando por enquanto os seguintes conteúdos:
 <img alt="Static Badge" src="https://img.shields.io/badge/Windows-%2340AEF0?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Eletr%C3%B4nica-%23001E59?style=for-the-badge">
 
 <hr>
 
