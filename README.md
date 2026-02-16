@@ -6,8 +6,9 @@
 
 <p align="center">
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/lbruss?style=for-the-badge&label=Seguidores&labelColor=black&color=blue">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lbruss?style=for-the-badge&labelColor=black">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/lbruss?style=flat&label=Seguidores&labelColor=black&color=blue">
+<img src="https://komarev.com/ghpvc/?username=lbruss&label=Profile%20views&color=0e75b6&style=flat" alt="lbruss"/>
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lbruss?style=flat&label=Stars&labelColor=black&color=blue">
 
 <hr>
 
