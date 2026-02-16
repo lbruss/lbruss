@@ -7,7 +7,7 @@
 <p align="center">
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/lbruss?style=for-the-badge&label=Seguidores&labelColor=black&color=blue">
-
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lbruss?style=for-the-badge&labelColor=black">
 
 <hr>
 
