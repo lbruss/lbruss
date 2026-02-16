@@ -3,14 +3,17 @@
 <h3 align="center">Sou aluno do SENAC Tatuapé, atualmente cursando o Técnico em Informática.</h3>
 <hr>
   
-Estoi estudando por enquanto os seguintes conteúdos:  
+Estou estudando por enquanto os seguintes conteúdos:  
 
 - Teoria de Hardware 
 - Elétrica básica  
-- Eletrônica básica com Arduino
+- Eletrônica básica com **Arduino**
+- Versionamento de código com **Git e GitHub**
 - Sistemas Operacionais (Windows e GNU/Linux)
 - Git e GitHub básico 
-- Inteligência Artificial (AI) 
+- Inteligência Artificial (AI)
+- Procedimentos de instalação, configuração e documentação técnica
+- Redes
 
 ## 🎯 Sobre mim
 - 📚 Ainda não trabalho, mas estou em constante aprendizado.  
