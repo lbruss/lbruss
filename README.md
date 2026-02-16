@@ -1,10 +1,14 @@
 ![](bannergh2.png)
 <h1 align="center">Olá, eu sou o Bruss!</h1>
 <h3 align="center">Sou aluno do SENAC Tatuapé, atualmente cursando o Técnico em Informática.</h3>
+
 <hr>
 
-![Profile views](https://komarev.com/ghpvc/?username=lbruss)
-![GitHub User's stars](https://img.shields.io/github/stars/lbruss?style=social)
+<p align="center">
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/lbruss?style=for-the-badge&label=Seguidores&labelColor=black&color=blue">
+
+
 <hr>
 
 Estou estudando por enquanto os seguintes conteúdos:  
