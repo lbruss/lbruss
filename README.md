@@ -4,7 +4,8 @@
 <hr>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/lbruss?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/lbruss/lbruss)
+![GitHub watchers](https://img.shields.io/github/watchers/lbruss/lbruss?label=Visitas)
+
 
 <hr>
 
