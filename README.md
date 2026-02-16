@@ -26,6 +26,7 @@ Estou estudando por enquanto os seguintes conteúdos:
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Hardware-%2341454A?style=for-the-badge&logo=nvidia&logoColor=green">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github">
+<img alt="Static Badge" src="https://img.shields.io/badge/Tinkercard-%231477D1?style=for-the-badge&logo=tinkercad&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-%23004088?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Windows-%2340AEF0?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black">
