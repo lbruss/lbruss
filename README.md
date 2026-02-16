@@ -19,6 +19,16 @@ Estou estudando por enquanto os seguintes conteúdos:
 - Procedimentos de instalação, configuração e documentação técnica
 - Redes
 
+<hr>
+
+# Ferramentas e Tecnologias
+<p align="center">
+
+<img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=dell&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  
+<hr>
+
 ## 🎯 Sobre mim
 - 📚 Ainda não trabalho, mas estou em constante aprendizado.  
 - 💻 Tenho interesse em montagem de computadores, hardware, desenvolvimento de software e inteligência artificial.  
