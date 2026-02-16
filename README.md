@@ -24,9 +24,13 @@ Estou estudando por enquanto os seguintes conteúdos:
 # Ferramentas e Tecnologias
 <p align="center">
 
-<img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=dell&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  
+<img alt="Static Badge" src="https://img.shields.io/badge/Hardware-%2341454A?style=for-the-badge&logo=nvidia&logoColor=green">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github">
+<img alt="Static Badge" src="https://img.shields.io/badge/VSCode-%23004088?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Windows-%2340AEF0?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
+
 <hr>
 
 ## 🎯 Sobre mim
@@ -44,4 +48,12 @@ Compartilhar minha evolução nos estudos, projetos e aprendizados ao longo da f
 O arquivo **README.md** será atualizado gradativamente conforme eu avançar nas demais **Unidades Curriculares (UCs)** do curso.  
 
 ## 📎 Contato
-- [LinkedIn](https://www.linkedin.com/in/bruss-loza-091053382/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruss-loza-091053382/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b.bruss_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brusslcarrasco@gmail.com)
+
+
+<hr>
+
+
