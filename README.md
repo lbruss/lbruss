@@ -2,7 +2,11 @@
 <h1 align="center">Olá, eu sou o Bruss!</h1>
 <h3 align="center">Sou aluno do SENAC Tatuapé, atualmente cursando o Técnico em Informática.</h3>
 <hr>
-  
+
+![GitHub User's stars](https://img.shields.io/github/stars/lbruss?style=social)
+
+<hr>
+
 Estou estudando por enquanto os seguintes conteúdos:  
 
 - Teoria de Hardware 
