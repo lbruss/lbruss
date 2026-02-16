@@ -3,10 +3,8 @@
 <h3 align="center">Sou aluno do SENAC Tatuapé, atualmente cursando o Técnico em Informática.</h3>
 <hr>
 
+![Profile views](https://komarev.com/ghpvc/?username=lbruss)
 ![GitHub User's stars](https://img.shields.io/github/stars/lbruss?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/lbruss/lbruss?label=Visitas)
-
-
 <hr>
 
 Estou estudando por enquanto os seguintes conteúdos:  
