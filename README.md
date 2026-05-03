@@ -23,6 +23,8 @@ Estou estudando por enquanto os seguintes conteúdos:
 - Inteligência Artificial (AI)
 - Procedimentos de instalação, configuração e documentação técnica
 - Redes
+- Windows Server
+- Linux Server
 
 <hr>
 
