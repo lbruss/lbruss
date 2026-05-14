@@ -16,8 +16,8 @@ Estou estudando por enquanto os seguintes conteúdos:
 
 - Teoria de Hardware 
 - Elétrica básica  
-- Eletrônica básica com **Arduino**
-- Versionamento de código com **Git e GitHub**
+- Eletrônica básica com Arduino
+- Versionamento de código com Git e GitHub
 - Sistemas Operacionais (Windows e GNU/Linux)
 - Git e GitHub básico 
 - Inteligência Artificial (AI)
