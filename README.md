@@ -30,7 +30,6 @@ Estou estudando por enquanto os seguintes conteúdos:
 ## PARTE 2
 
 - ?
-- ...
 
 <hr>
 
