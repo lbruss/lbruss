@@ -14,6 +14,7 @@
 
 Estou estudando por enquanto os seguintes conteúdos:  
 
+## PARTE 1
 - Teoria de Hardware 
 - Elétrica básica  
 - Eletrônica básica com Arduino
@@ -25,6 +26,11 @@ Estou estudando por enquanto os seguintes conteúdos:
 - Redes
 - Windows Server
 - Linux Server
+
+## PARTE 2
+
+- ?
+- ...
 
 <hr>
 
