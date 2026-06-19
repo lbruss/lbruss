@@ -49,6 +49,7 @@ Estou estudando por enquanto os seguintes conteúdos:
 <img alt="Static Badge" src="https://img.shields.io/badge/Tomcat-%23F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Windows%20Server-%23357EC7?style=for-the-badge&logoColor=%23000000">
+<img alt="Static Badge" src="https://img.shields.io/badge/Apache-%23D22128?style=for-the-badge&logo=apache&logoColor=%23FFFFF">
 
 
 
@@ -71,7 +72,11 @@ O arquivo **README.md** será atualizado gradativamente conforme eu avançar nas
 
 ## 📎 Contato
 <p align="center">
-  
+
+<a href="https://lbruss.github.io/linktree/" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/linktree-%2343E55E?style=for-the-badge&logo=linktree&logoColor=%23FFFFFF">
+</a>
+
 <a href="https://www.linkedin.com/in/bruss-loza-091053382/" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230D597F?style=for-the-badge&logoColor=white">
 </a>
