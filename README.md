@@ -46,6 +46,12 @@ Estou estudando por enquanto os seguintes conteúdos:
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Eletr%C3%B4nica-%23001E59?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino">
+<img alt="Static Badge" src="https://img.shields.io/badge/Tomcat-%23F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=%23000000">
+<img alt="Static Badge" src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=%23000000">
+<img alt="Static Badge" src="https://img.shields.io/badge/Windows%20Server-%23357EC7?style=for-the-badge&logoColor=%23000000">
+
+
+
 
 <hr>
 
