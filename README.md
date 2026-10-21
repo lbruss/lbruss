@@ -29,7 +29,11 @@ Estou estudando por enquanto os seguintes conteúdos:
 
 ## PARTE 2
 
-- ?
+- Photoshop
+- Lógica de Programação
+- Banco de Dados
+- JavaScript
+- 
 
 <hr>
 
