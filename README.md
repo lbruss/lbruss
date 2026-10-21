@@ -54,6 +54,12 @@ Estou estudando por enquanto os seguintes conteúdos:
 <img alt="Static Badge" src="https://img.shields.io/badge/Eletr%C3%B4nica-%23001E59?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino">
 <img alt="Static Badge" src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=%23000000">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-js?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/mysql-sql?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1&color=%234479A1">
+<img alt="Static Badge" src="https://img.shields.io/badge/java-java?style=for-the-badge&logo=openjdk&logoSize=auto&color=%23000000">
+
+
+
 
 
 
